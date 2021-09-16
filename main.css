@@ -8,6 +8,7 @@ body {
 
 section {
 	display: block;
+	background-color: #031840;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
 	height: auto;
