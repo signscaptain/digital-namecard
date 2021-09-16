@@ -8,7 +8,6 @@ body {
 
 section {
 	display: block;
-	background-color: #031840;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
 	height: auto;
@@ -24,7 +23,6 @@ a {
 
 img {
 	display: block;
-	background-color: #031840;
     margin-left: auto;
     margin-right: auto;
     max-height: 100%;
@@ -68,7 +66,6 @@ img.profile-pic {
 	max-width: 100%;
 	max-height: 100%;
 	overflow: auto;
-	background-color: #031840;
 }
 
 .col.is-1 {
@@ -148,15 +145,15 @@ img.profile-pic {
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #031840;
+    color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
-    color: #031840;
-    font-size: 20px;
+    color: #333333;
+    font-size: 12px;
 }
 
 .text-detail {
